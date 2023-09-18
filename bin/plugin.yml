@@ -1,0 +1,8 @@
+name: BankAPI
+author: plocki
+version: 1.0
+api-version: 1.16
+main: eu.plugincloud.bankapi.main.Main
+commands:
+  bank:
+  ecoadminbank:
